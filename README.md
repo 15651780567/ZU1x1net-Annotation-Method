@@ -1,1 +1,1 @@
-# ZU1x1net-Annotation-Method
+# BlockSelect: A Semi-Automatic Pipeline for Pixel-Level Annotation on Color-Dominant Images 
